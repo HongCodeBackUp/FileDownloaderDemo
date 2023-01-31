@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -14,6 +14,11 @@
 		}
 	],
 	"Plugins": [
+		{
+			"Name": "FileDownloader",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4b8c39e8f1ff4e25be2ea3b85b0e28ee"
+		},	
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,
