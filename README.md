@@ -15,3 +15,10 @@ this Proggress shows percentage we downloaded, like this 97%
 
 ## 4 we can compared local downloaded file is changed in server, just bind this delegate to check file if is changed in server:   
 ![image](https://user-images.githubusercontent.com/8192020/215803769-61e40ae2-3134-4777-a8d1-4f6ad1286498.png)   
+
+
+# file download path   :   
+in Saved/PersistentDownloadDir dir, will create Files directory to save all files we downloaded   
+![image](https://user-images.githubusercontent.com/8192020/215806661-576a5374-df4b-4ed9-8753-e886211bbeef.png)
+![image](https://user-images.githubusercontent.com/8192020/215806867-1f6626e2-8348-403a-bd05-da6bf1d1b225.png)   
+![image](https://user-images.githubusercontent.com/8192020/215806947-2c311650-9845-4d21-b52d-a9b1193f903c.png)   
