@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright (c) 2023, Hong Gu <guhong.usa@gmail.com>. All Rights Reserved.
 
 using UnrealBuildTool;
 using System.Collections.Generic;
@@ -9,7 +9,6 @@ public class FileDownloaderDemoTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1;
-		ExtraModuleNames.Add("FileDownloaderDemo");
+		ExtraModuleNames.AddRange( new string[] { "FileDownloaderDemo" } );
 	}
 }
