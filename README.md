@@ -1,4 +1,7 @@
 # FileDownloaderDemo
+Download plugin:   
+[虚幻商场](https://www.unrealengine.com/marketplace/zh-CN/product/file-downloader)   
+[Unreal Market](https://www.unrealengine.com/marketplace/zh-CN/product/file-downloader)   
 use HTTP protocol to download any kinds of file
 
 ## 1 when the file download completed, bind this delegate, OnFileDownloadCompleted
